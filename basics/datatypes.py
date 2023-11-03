@@ -3,7 +3,11 @@
 # bool
 # float
 # list
+# dict
 
+
+
+# example list
 students = ["vaishali", "sakshi", "vaishu"]
 
 for student in students:
